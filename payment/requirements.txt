@@ -1,0 +1,5 @@
+fastapi[all]~=0.75.1
+redis-om==0.0.23
+requests~=2.27.1
+starlette==0.19.0
+redis~=4.2.2
